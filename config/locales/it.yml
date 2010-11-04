@@ -1,0 +1,8 @@
+it:
+  label_user_mail_assigned_only_mail_notification: Inviami mail sono se sono l'assegnatario della segnalazione
+  label_user_mail_block_mail_notification: Non voglio essere avvisato per mail. Grazie
+  label_mail_if: Inviami mail se
+  label_new_issue_created: Viene creata una nuova issue
+  label_issue_assigned_to: "La segnalazione è assegnata a:"
+  label_no_assignation: Nessuno
+  label_use_custom_mail: Usa una mail differente
